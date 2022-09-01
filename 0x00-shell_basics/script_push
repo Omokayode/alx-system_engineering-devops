@@ -1,5 +1,4 @@
-git comm
-it -m new commit 
-git comm
-it -m new commit 
+#!/bin/bash
+git add .
+git commit -m "script update"
 git push
