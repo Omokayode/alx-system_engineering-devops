@@ -1,0 +1,5 @@
+git comm
+it -m new commit 
+git comm
+it -m new commit 
+git push
